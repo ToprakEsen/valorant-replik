@@ -1,6 +1,8 @@
-# VALORANT // Replik Tahmin Oyunu (Mobil Uyumlu)
+# VALORANT // Replik Tahmin Oyunu (Mobil & Web Uyumlu)
 
 VALORANT ajanlarının **%100 orijinal Türkçe yerelleştirilmiş repliklerini** tahmin etme ve arkadaş ortamında oynama oyunu.
+
+🌐 **Canlı Web Oyunu (Doğrudan Oyna):** [https://toprakesen.github.io/valorant-replik/](https://toprakesen.github.io/valorant-replik/)
 
 ---
 
