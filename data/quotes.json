@@ -1,0 +1,352 @@
+[
+  {
+    "id": "quote_1",
+    "agent": "Phoenix",
+    "quote": "Karşıda da mı Jett varmış? Yok be bir Jett var, o da bizde! Onlarınki anca çakma!",
+    "category": "Maç Başı / Phoenix",
+    "audioUrl": "audio/pure_quote_1.mp3"
+  },
+  {
+    "id": "quote_2",
+    "agent": "Jett",
+    "quote": "Başka figürler çağırmayı denedin mi Skye? Aslan falan... Oha, ejderha çağırsana!",
+    "category": "Ajan Etkileşimi",
+    "audioUrl": "audio/pure_quote_2.mp3"
+  },
+  {
+    "id": "quote_3",
+    "agent": "Jett",
+    "quote": "Saçına sürdüğün şeyden biraz da bana ver! Sağa sola uçup duruyorum, saçlarım perişan...",
+    "category": "Ajan Etkileşimi / Jett",
+    "audioUrl": "audio/pure_quote_3.mp3"
+  },
+  {
+    "id": "quote_4",
+    "agent": "Jett",
+    "quote": "Acıktık sanki ya! Üzgünüm, sadece kendime yetecek kadar getirmişim.",
+    "category": "Tur Başı / Mizah",
+    "audioUrl": "audio/pure_quote_4.mp3"
+  },
+  {
+    "id": "quote_5",
+    "agent": "Sage",
+    "quote": "Tüm gücümle hepinizi canım pahasına koruyacağım!",
+    "category": "Tur Başı / Moral",
+    "audioUrl": "audio/pure_quote_5.mp3"
+  },
+  {
+    "id": "quote_6",
+    "agent": "Vyse",
+    "quote": "Henüz ölemem, yapacaklarım var!",
+    "category": "Can Azalma / Vyse",
+    "audioUrl": "audio/pure_quote_6.mp3"
+  },
+  {
+    "id": "quote_7",
+    "agent": "Sage",
+    "quote": "İstediğiniz her şeyi başarabiliriz! Bunu yapabildiğinizi bana gösterdiniz, onlara da gösterin!",
+    "category": "Tur Başı / Motivasyon",
+    "audioUrl": "audio/pure_quote_7.mp3"
+  },
+  {
+    "id": "quote_8",
+    "agent": "Harbor",
+    "quote": "Susayan var mı ya da terleyen bir sorayım?",
+    "category": "Tur Başı / Harbor",
+    "audioUrl": "audio/pure_quote_8_harbor.mp3"
+  },
+  {
+    "id": "quote_9",
+    "agent": "Phoenix",
+    "quote": "Hop diğer ben, şimdiden özür dilerim!",
+    "category": "Ajan Etkileşimi",
+    "audioUrl": "audio/pure_quote_9.mp3"
+  },
+  {
+    "id": "quote_10",
+    "agent": "Viper",
+    "quote": "Bana canavar diyorlar, onları haklı çıkarayım!",
+    "category": "Tur Başı / Viper",
+    "audioUrl": "audio/pure_quote_10.mp3"
+  },
+  {
+    "id": "quote_11",
+    "agent": "Reyna",
+    "quote": "Karşımızdakilerin bir özelliği yok. Yine insan, yine ölümlü.",
+    "category": "Tur Başı / Reyna",
+    "audioUrl": "audio/pure_quote_11.mp3"
+  },
+  {
+    "id": "quote_12",
+    "agent": "Raze",
+    "quote": "Müzik dinlemeyecek miyiz yani? Moralimi alt üst ettin be ciğerim!",
+    "category": "Tur Başı / Müzik",
+    "audioUrl": "audio/pure_quote_12.mp3"
+  },
+  {
+    "id": "quote_13",
+    "agent": "Killjoy",
+    "quote": "Spike'ı almadım ama siz de almadınız, suç bende değil yani!",
+    "category": "Spike Unutma / Killjoy",
+    "audioUrl": "audio/pure_quote_13_killjoy.mp3"
+  },
+  {
+    "id": "quote_14",
+    "agent": "Raze",
+    "quote": "Zamanı geldi, uçalım canım!",
+    "category": "Tur Başı / Enerji",
+    "audioUrl": "audio/pure_quote_14.mp3"
+  },
+  {
+    "id": "quote_15",
+    "agent": "Raze",
+    "quote": "Oha, parmaklarımı ne biçim havaya uçurdum! Bir şey olmadı ama acıdı!",
+    "category": "Kaza / Eğlence",
+    "audioUrl": "audio/pure_quote_15.mp3"
+  },
+  {
+    "id": "quote_16",
+    "agent": "Reyna",
+    "quote": "Aldıkları nefesi hak etmiyorlar!",
+    "category": "Raund Başı / Reyna",
+    "audioUrl": "audio/pure_quote_16_reyna.mp3"
+  },
+  {
+    "id": "quote_17",
+    "agent": "Killjoy",
+    "quote": "Dahi diye yazılır, dahi diye okunur!",
+    "category": "Ego / Tur Başı",
+    "audioUrl": "audio/pure_quote_18.mp3"
+  },
+  {
+    "id": "quote_18",
+    "agent": "Killjoy",
+    "quote": "Kendine güvenmen çok güzel ama Spike'ı almayı da unutma!",
+    "category": "Spike Uyarısı",
+    "audioUrl": "audio/pure_quote_19.mp3"
+  },
+  {
+    "id": "quote_19",
+    "agent": "Raze",
+    "quote": "İş bitiricilik 10 puan, gizlilik 0 puan!",
+    "category": "Tur Sonu / Raze",
+    "audioUrl": "audio/pure_quote_19_raze.mp3"
+  },
+  {
+    "id": "quote_20",
+    "agent": "Killjoy",
+    "quote": "Taktikleri olsa analiz edeceğim ama yok!",
+    "category": "Tur Sonu / Alay",
+    "audioUrl": "audio/pure_quote_21.mp3"
+  },
+  {
+    "id": "quote_21",
+    "agent": "Killjoy",
+    "quote": "Tek tuşla dünyayı kurtarıyoruz, zor iş değil!",
+    "category": "Tur Başı / Teknoloji",
+    "audioUrl": "audio/pure_quote_22.mp3"
+  },
+  {
+    "id": "quote_22",
+    "agent": "Cypher",
+    "quote": "Ailemi korumak için hayatta kalmalıyım, onları kaybedemem o acıyı tekrar yaşayamam.",
+    "category": "Hikaye / Cypher",
+    "audioUrl": "audio/pure_quote_23.mp3"
+  },
+  {
+    "id": "quote_23",
+    "agent": "Harbor",
+    "quote": "Kubbenin ötesindeki şu kale milattan önce 48 civarında yapılmış. Kurtarılamadı, yazık olmuş.",
+    "category": "Harita İnceleme / Harbor",
+    "audioUrl": "audio/pure_quote_24.mp3"
+  },
+  {
+    "id": "quote_24",
+    "agent": "Breach",
+    "quote": "Başka bir şeye ihtiyacım yok, şu kollar yetiyor bana!",
+    "category": "Meydan Okuma / Breach",
+    "audioUrl": "audio/pure_quote_24_breach.mp3"
+  },
+  {
+    "id": "quote_25",
+    "agent": "Brimstone",
+    "quote": "Suyunuzu için, şarjörleri doldurun, doğru iş başına!",
+    "category": "Tur Başı / Hazırlık",
+    "audioUrl": "audio/pure_quote_26.mp3"
+  },
+  {
+    "id": "quote_26",
+    "agent": "Phoenix",
+    "quote": "Bir zafer cepte ama yetmez!",
+    "category": "Tur Sonu / Phoenix",
+    "audioUrl": "audio/pure_quote_27.mp3"
+  },
+  {
+    "id": "quote_27",
+    "agent": "Sova",
+    "quote": "Kim olduğunu unutma Omen! Sen insansın, canavar değil!",
+    "category": "Ajan Etkileşimi / Sova",
+    "audioUrl": "audio/pure_quote_28.mp3"
+  },
+  {
+    "id": "quote_28",
+    "agent": "Omen",
+    "quote": "Doğru ellerde her şey bir silah olabilir ama ağaçlarla kimseyi öldürdüğümü hatırlamıyorum.",
+    "category": "Tur Başı / Gizem",
+    "audioUrl": "audio/pure_quote_29.mp3"
+  },
+  {
+    "id": "quote_29",
+    "agent": "Sova",
+    "quote": "Nereye kaçarlarsa kaçsınlar, onları bulurum!",
+    "category": "Ajan Seçimi / Sova",
+    "audioUrl": "audio/pure_quote_29_sova.mp3"
+  },
+  {
+    "id": "quote_30",
+    "agent": "Breach",
+    "quote": "Raze, işe bak! Hem beraberiz hem de kanunları çiğniyoruz...",
+    "category": "Ajan Etkileşimi",
+    "audioUrl": "audio/pure_quote_31.mp3"
+  },
+  {
+    "id": "quote_31",
+    "agent": "Iso",
+    "quote": "Baskıyı doğru uygularsan herkes kırılır.",
+    "category": "Taktik / Iso",
+    "audioUrl": "audio/pure_quote_32.mp3"
+  },
+  {
+    "id": "quote_32",
+    "agent": "KAY/O",
+    "quote": "Selam Phoenix, çatışma yeterliliği testinde en sona sen kaldın...",
+    "category": "Ajan Etkileşimi / Rapor",
+    "audioUrl": "audio/pure_quote_33.mp3"
+  },
+  {
+    "id": "quote_33",
+    "agent": "Yoru",
+    "quote": "Kafalarından mı vursam, sırtlarından mı bıçaklasam? Neyse, sonra karar veririm.",
+    "category": "Tur Başı / Taktik",
+    "audioUrl": "audio/pure_quote_34.mp3"
+  },
+  {
+    "id": "quote_34",
+    "agent": "Brimstone",
+    "quote": "Öldürseler burada çalışmam, köpek bağlasan durmaz zaten!",
+    "category": "Harita Tepkisi / Brimstone",
+    "audioUrl": "audio/pure_quote_35.mp3"
+  },
+  {
+    "id": "quote_35",
+    "agent": "Cypher",
+    "quote": "Mesajı götürecek kimse kalmadı mı ne?",
+    "category": "Katletme / Cypher",
+    "audioUrl": "audio/pure_quote_36.mp3"
+  },
+  {
+    "id": "quote_36",
+    "agent": "Harbor",
+    "quote": "Eldivenin altı kaşınınca ne yapıyorsun? Şu bileklik beni delirtmek üzere!",
+    "category": "Ajan Etkileşimi",
+    "audioUrl": "audio/pure_quote_38.mp3"
+  },
+  {
+    "id": "quote_37",
+    "agent": "Chamber",
+    "quote": "Tabii ki, sadece bir arkadaşıma yardım etmek istiyorum o kadar!",
+    "category": "Ajan Etkileşimi / Chamber",
+    "audioUrl": "audio/pure_quote_39.mp3"
+  },
+  {
+    "id": "quote_38",
+    "agent": "Viper",
+    "quote": "Lütfen şunların içini açar mısın? Zehirler en iyi doğrudan enjekte edince işe yarıyor.",
+    "category": "Ajan Etkileşimi / Viper",
+    "audioUrl": "audio/pure_quote_40.mp3"
+  },
+  {
+    "id": "quote_39",
+    "agent": "Fade",
+    "quote": "Biz bu işi gözümüz kapalı yaparız da, siz yine de açık tutun!",
+    "category": "Tur Başı",
+    "audioUrl": "audio/pure_quote_42.mp3"
+  },
+  {
+    "id": "quote_40",
+    "agent": "Fade",
+    "quote": "Bize mi saldıracaklarmış? Tabutlarına çivi lazım herhalde.",
+    "category": "Meydan Okuma",
+    "audioUrl": "audio/pure_quote_43.mp3"
+  },
+  {
+    "id": "quote_41",
+    "agent": "Fade",
+    "quote": "Hadi bir daha! Korkularının kokusu dağılmadan...",
+    "category": "Tur Başı",
+    "audioUrl": "audio/pure_quote_44.mp3"
+  },
+  {
+    "id": "quote_42",
+    "agent": "Neon",
+    "quote": "Çekilmezsen çarpılırsın!",
+    "category": "Yetenek / Hız",
+    "audioUrl": "audio/pure_quote_46.mp3"
+  },
+  {
+    "id": "quote_43",
+    "agent": "Neon",
+    "quote": "Gecenin 3'ünde oturmuş yemek videoları izliyordun... Hayatta nasıl duruyorsun ki?!",
+    "category": "Ajan Etkileşimi",
+    "audioUrl": "audio/pure_quote_47.mp3"
+  },
+  {
+    "id": "quote_44",
+    "agent": "Skye",
+    "quote": "Ekip çalışması yapıyoruz tamam mı? Kimse kahramanlık yapmaya kalkıp işi batırmasın.",
+    "category": "Tur Başı / Liderlik",
+    "audioUrl": "audio/pure_quote_48.mp3"
+  },
+  {
+    "id": "quote_45",
+    "agent": "Skye",
+    "quote": "Sage, ben sana takipçilerimi kontrol etmeyi öğreteyim, sen de bana ölüleri diriltmeyi öğret. Bence makul, ne dersin?",
+    "category": "Ajan Etkileşimi",
+    "audioUrl": "audio/pure_quote_49.mp3"
+  },
+  {
+    "id": "quote_46",
+    "agent": "Skye",
+    "quote": "Doktor değilim ama bir iki kurşun yarasını halledebilirim. Şifa lazımsa haber ver!",
+    "category": "Şifa / Skye",
+    "audioUrl": "audio/pure_quote_50.mp3"
+  },
+  {
+    "id": "quote_47",
+    "agent": "Astra",
+    "quote": "Düzlemim sahiden yukarıda çiçeğim, lafta değil.",
+    "category": "Kozmik / Sohbet",
+    "audioUrl": "audio/pure_quote_51.mp3"
+  },
+  {
+    "id": "quote_48",
+    "agent": "Yoru",
+    "quote": "Kim olsa savaşırım, herkesle savaşırım!",
+    "category": "Meydan Okuma / Yoru",
+    "audioUrl": "audio/pure_quote_52.mp3"
+  },
+  {
+    "id": "quote_49",
+    "agent": "Reyna",
+    "quote": "Hepsi gitti ama ben doymadım!",
+    "category": "Katletme / Reyna",
+    "audioUrl": "audio/pure_quote_49_reyna.mp3"
+  },
+  {
+    "id": "quote_50",
+    "agent": "Raze",
+    "quote": "Canım takımım, bana birkaç ton dinamit verin gerisini boş ver!",
+    "category": "Mizah / Raze",
+    "audioUrl": "audio/pure_quote_50_raze.mp3"
+  }
+]

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#0f1923">
+    <title>VALORANT // Replik Tahmin Oyunu</title>
+    
+    <!-- Google Fonts: Rajdhani & Orbitron -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800;900&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="mobile-frame">
+        <!-- Top App Bar -->
+        <header class="app-header">
+            <div class="logo-area">
+                <div class="v-icon">V</div>
+                <div class="header-titles">
+                    <span class="v-tag">PROTOKOL // REPLİK</span>
+                    <h1>VALORANT</h1>
+                </div>
+            </div>
+            <button id="sfx-toggle-btn" class="icon-btn" aria-label="Ses Efektleri">
+                <span id="sfx-icon">🔊</span>
+            </button>
+        </header>
+
+        <!-- Stats Bar -->
+        <section class="stats-bar">
+            <div class="stat-pill score-pill">
+                <span class="stat-label">PUAN</span>
+                <span id="score-val" class="stat-value">0</span>
+            </div>
+            <div class="stat-pill streak-pill">
+                <span class="stat-label">SERİ</span>
+                <span class="streak-wrapper">
+                    <span id="streak-val" class="stat-value">0</span>
+                    <span class="fire-icon">🔥</span>
+                </span>
+            </div>
+            <div class="stat-pill best-pill">
+                <span class="stat-label">EN YÜKSEK</span>
+                <span id="best-val" class="stat-value">0</span>
+            </div>
+        </section>
+
+        <!-- Main Card Area -->
+        <main class="card-container">
+            <div class="quote-card" id="quote-card">
+                <div class="card-corner top-left"></div>
+                <div class="card-corner top-right"></div>
+                <div class="card-corner bottom-left"></div>
+                <div class="card-corner bottom-right"></div>
+
+                <div class="card-meta">
+                    <span id="quote-category" class="category-badge">ORİJİNAL REPLİK</span>
+                    <span id="card-counter" class="counter-badge">#1</span>
+                </div>
+
+                <div class="quote-body">
+                    <span class="quote-mark left">“</span>
+                    <p id="quote-text" class="quote-text">Yükleniyor...</p>
+                    <span class="quote-mark right">”</span>
+                </div>
+
+                <div class="reader-tip">
+                    <span class="tip-icon">📢</span>
+                    <span>Bu repliği arkadaşına oku veya orijinal sesi dinlet!</span>
+                </div>
+
+                <!-- Voice Line Hint Button (Direct In-Game Voice) -->
+                <button id="voice-hint-btn" class="tactical-btn voice-btn">
+                    <div class="btn-glow"></div>
+                    <span class="voice-icon" id="voice-icon">🔊</span>
+                    <span class="btn-text" id="voice-btn-text">Orijinal Karakter Sesi (Dinlet)</span>
+                    <div class="audio-waves" id="audio-waves">
+                        <span></span><span></span><span></span><span></span><span></span>
+                    </div>
+                </button>
+            </div>
+
+            <!-- Answer Section (Hidden until Reveal) -->
+            <div class="answer-section" id="answer-section">
+                <!-- Reveal Button -->
+                <button id="reveal-btn" class="tactical-btn reveal-btn">
+                    <span class="eye-icon">👁️</span>
+                    <span>Cevabı Göster</span>
+                </button>
+
+                <!-- Revealed Agent Card -->
+                <div class="agent-reveal-card" id="agent-reveal-card" style="display: none;">
+                    <div class="agent-avatar-wrap">
+                        <img id="agent-portrait" src="" alt="Ajan Portresi" class="agent-img">
+                        <div class="agent-glow-bg" id="agent-glow-bg"></div>
+                    </div>
+                    <div class="agent-info">
+                        <span class="agent-tag">AJAN</span>
+                        <h2 id="agent-name" class="agent-title">PHOENIX</h2>
+                        <div class="agent-badges">
+                            <span id="agent-role" class="role-badge">Düellocu</span>
+                            <span id="agent-origin" class="origin-badge">VALORANT</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Score Action Buttons (Visible after Reveal) -->
+                <div class="scoring-actions" id="scoring-actions" style="display: none;">
+                    <button id="btn-correct" class="action-btn success-btn">
+                        <span class="btn-icon">✓</span>
+                        <span>Doğru Bildi (+1)</span>
+                    </button>
+                    <button id="btn-wrong" class="action-btn fail-btn">
+                        <span class="btn-icon">✕</span>
+                        <span>Bilemedi</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Next Card Button -->
+            <button id="next-btn" class="tactical-btn next-btn">
+                <span>Sonraki Replik</span>
+                <span class="arrow">❯</span>
+            </button>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <span class="hush-badge">✦ Orijinal Oyun Sesleri (Hush Dahil)</span>
+            <span class="footer-sub">Mobil Öncelikli Replik Tahmin</span>
+        </footer>
+    </div>
+
+    <!-- Script -->
+    <script src="app.js?v=2"></script>
+</body>
+</html>

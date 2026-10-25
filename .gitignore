@@ -1,0 +1,24 @@
+# Dependencies & environments
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Production builds & temporary files
+dist/
+build/
+out/
+.env
+.env.local
+*.log
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Development tools & scratch scripts (vgmstream dlls and dev tests)
+tools/
+scratch/

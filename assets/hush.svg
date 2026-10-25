@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <radialGradient id="hushGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.8"/>
+      <stop offset="60%" stop-color="#4c1d95" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0f1923" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shroudGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="50%" stop-color="#7e22ce"/>
+      <stop offset="100%" stop-color="#3b0764"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#0f1923" rx="32"/>
+  <circle cx="256" cy="240" r="200" fill="url(#hushGlow)"/>
+  
+  <!-- Hood / Shroud Silhouette -->
+  <path d="M256 80 C180 80, 140 140, 140 240 C140 340, 160 420, 190 460 C230 450, 282 450, 322 460 C352 420, 372 340, 372 240 C372 140, 332 80, 256 80 Z" fill="url(#shroudGrad)"/>
+  
+  <!-- Face Shadow Void -->
+  <path d="M256 140 C200 140, 180 180, 180 250 C180 320, 210 370, 256 390 C302 370, 332 320, 332 250 C332 180, 312 140, 256 140 Z" fill="#090d12"/>
+  
+  <!-- Glowing Telekinetic Eyes -->
+  <ellipse cx="220" cy="235" rx="14" ry="5" fill="#f3e8ff" transform="rotate(-8 220 235)"/>
+  <ellipse cx="292" cy="235" rx="14" ry="5" fill="#f3e8ff" transform="rotate(8 292 235)"/>
+  <circle cx="220" cy="235" r="4" fill="#a855f7"/>
+  <circle cx="292" cy="235" r="4" fill="#a855f7"/>
+
+  <!-- Telekinetic Noise Wave Pattern -->
+  <path d="M190 290 Q256 315 322 290" stroke="#a855f7" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.8"/>
+  <path d="M210 320 Q256 340 302 320" stroke="#c084fc" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M230 350 Q256 360 282 350" stroke="#e9d5ff" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.5"/>
+
+  <!-- Collar / Armor Details -->
+  <path d="M170 450 L256 410 L342 450 L310 480 L202 480 Z" fill="#1e1b4b" stroke="#7e22ce" stroke-width="2"/>
+</svg>
